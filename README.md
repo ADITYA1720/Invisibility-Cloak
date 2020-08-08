@@ -10,3 +10,15 @@ Then these two are given as inputs to another variable which will NAND both the 
 Therefore our live video stream will not be able to detect anything that is red in colour. Also if you are behind any red object you are invisible too!
 
 This can be executed for any colour by specifying the required color thresholds and RGb Values.
+
+Purpose:
+This project is aimed at Color Segmentation and Object Detection. This can be used for various entertainment purposes as well as automated machines which need to detect a specific color or any object.
+
+Pre-Requisites:
+Python3
+Numpy Libraries
+'pip install opencv-python' to import cv2
+
+Contact:
+GitHUB : https://github.com/ADITYA1720
+E-MAIl : adityadjadhav17@gmail.com
