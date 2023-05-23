@@ -18,7 +18,3 @@ Pre-Requisites:
 Python3
 Numpy Libraries
 'pip install opencv-python' to import cv2
-
-Contact:
-GitHUB : https://github.com/ADITYA1720
-E-MAIl : adityadjadhav17@gmail.com
