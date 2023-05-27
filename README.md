@@ -1,5 +1,5 @@
 # Invisibility-Cloak
-Hello Everyone, Watching Harry Potter was one of the most fascinating things we saw during our childhood and something which still fascinates us!  One of the eye-catching part of the movie is Harry and Ron's hideout at Hagrid's. Inspired by this I have come up with an Invisible Cloak that makes you invisble. You could also use this to scare your friends and colleagues as this also draws inspiration from the movie Hollow Man.
+Watching Harry Potter was one of the most fascinating things we saw during our childhood and something which still fascinates us!  One of the eye-catching part of the movie is Harry and Ron's hideout at Hagrid's. Inspired by this I have come up with an Invisible Cloak that makes you invisble. You could also use this to scare your friends and colleagues as this also draws inspiration from the movie Hollow Man.
 
 Fascinated by it I have come with up this project which makes use of Color Detection and Object Segmentation.
 My project makes use of a video input where it detects red colour being given a threshold of a range of values.
